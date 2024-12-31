@@ -1,7 +1,8 @@
 # final_project
 
-
-Les fichiers des smarts contract se trouvent dans  : \projects\final_project\smart_contracts\final_project
+Pour obtenir les bon fichiers, il faut récupérer le fichier final_project.zip et le déziper dans le dossier projects.
+J'ai conscience que la pratique est assez douteux mais pour une raison qui me dépasse, le contenu de ce dossier refuse de l'envoyer après le git push
+Les fichiers des smarts contract se trouvent alors dans  : \projects\final_project\smart_contracts\final_project
 
 Dans ce dossier se trouvent le fichier contract.py contient tous les smarts contract,
 ainsi que test_contract.py pour tester toutes les fonctions
